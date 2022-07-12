@@ -1,6 +1,8 @@
 ### Hola soy Yubar Daniel Marín Benjumea 👋
 
-Soy estadístico graduado de la universidad Nacional de Colombia. He trabajado en temas de investigación relacionados con Analisis de sentimiento, Mineria de datos, ingenieria de características y modelamiento estadístico. Actualmente trabajo en la empresa ![Protección](https://www.linkedin.com/in/protecci%C3%B3n-s-a-ba1725aa/) en procesos de análisis de analisis de datos e automatización de procesos. Tengo habilidades desarrollando en **R**, **Python**, **Javascript** con frameworks como **Vue.js**: además de manejar herramientas como **power BI**, **Data Studio**, **Knime**, **SQL**, **HTML**, **CSS**.
+I am a statistician with a master's degree in computer science. My professional goal is to help organizations transform through data using techniques such as artificial intelligence, machine learning, software and statistics. I have experience researching data quality methodologies
+
+
 
 <!--
 **ydmarinb/ydmarinb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

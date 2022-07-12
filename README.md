@@ -1,6 +1,6 @@
 ### Hola soy Yubar Daniel Marín Benjumea 👋
 
-I am a statistician with a master's degree in computer science. My professional goal is to help organizations transform through data using techniques such as artificial intelligence, machine learning, software and statistics. I have experience researching data quality methodologies
+I am a statistician with a master's degree in computer science. My professional goal is to help organizations transform through data using techniques such as artificial intelligence, machine learning, software and statistics. I have experience researching data quality methodologies. In my free time I practice jujitsu and I love watching documentaries. I love to teach, I love history and I love Colombian music (Cumbia, porro, gaita, tropical)
 
 
 
